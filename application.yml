@@ -10,11 +10,7 @@ spring:
     generate-ddl: false
   # Producer properties
   kafka:
-<<<<<<< HEAD
     bootstrap-servers: b-2.eoskafka01.j56onz.c3.kafka.ap-south-1.amazonaws.com:9092
-=======
-    bootstrap-servers: b-1.eoskafka01.2aj8i5.c3.kafka.ap-south-1.amazonaws.com:9092
->>>>>>> 41d0f5664e598657ed6a16521c3f3a33dfec33e7
     group-id: group_id
 topic:
   name:
